@@ -1,1 +1,1 @@
-## E2E ML
+## End to End MAchine Learning Project
